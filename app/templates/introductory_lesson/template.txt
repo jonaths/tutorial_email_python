@@ -1,0 +1,8 @@
+Hi {{ name }}
+
+Welcome to your Python Introductory Lesson. These are your credentials.
+
+Username: {{ username }}
+Password: {{ password }}
+
+Login here -> {{ url }}
